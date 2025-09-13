@@ -1,0 +1,7 @@
+NEVER pus 2 main, have a copy of main and push from there
+
+ALWAYS WRITE commit messages when pushing 
+
+Review your changes, remember to use breakpoints to isolatte wen debigging
+
+SAVE before you pusgh
